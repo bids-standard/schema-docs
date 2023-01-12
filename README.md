@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/bidsschematools/badge/?version=latest)](https://bidsschematools.readthedocs.io/en/latest/?badge=latest)
+
 # schema-docs
 
 Here are the docs for schematools.
