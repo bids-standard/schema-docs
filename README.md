@@ -1,3 +1,8 @@
+# This Repository has been ARCHIVED
+
+Read the docs now supports mono repositories (e.g. multi `readthedocs.yaml` files) so this is no longer needed.
+
+
 [![Documentation Status](https://readthedocs.org/projects/bidsschematools/badge/?version=latest)](https://bidsschematools.readthedocs.io/en/latest/?badge=latest)
 
 # schema-docs
